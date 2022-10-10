@@ -4,4 +4,16 @@
     color: white;
     border: 1px solid white;
     text-align: center;
+    padding-top: 5px;
+}
+
+[class*="col"] [class*="col"]{
+    border: 1px solid rgb(36,97,230);
+    background: rgb(4, 197, 78);
+    padding: 2px 0;
+    height: 22px;
+}
+
+.margin-bottom {
+    margin-bottom: 30px;
 }
